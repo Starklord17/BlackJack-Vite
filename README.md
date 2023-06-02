@@ -1,3 +1,1 @@
-[object Object]
-
 # BlackJack Vite
